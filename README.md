@@ -13,5 +13,4 @@
 
 **Social Networks**
 
-<a href="mailto:yndx-apodmarev@yandex.ru"><img src="https://img.shields.io/badge/-yndx-apodmare@yandex.ru-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://t.me/oosuzhdayu"><img src="https://img.shields.io/badge/telegram-%40oosuzhdayu-blue"/></a> 
