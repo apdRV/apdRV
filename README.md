@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Sasha</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"  width="32" height="32"/></h1>
 
-<!--
-**apdRV/apdRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Work:
 
-Here are some ideas to get you started:
+- __YANDEX__ "Intern" 2023. Saint-Petersburg, Russia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📚 Education:
+
+- __HSE__ "Applied Mathematics And Computer Science", 2023-2027
+
+
+**Social Networks**
+
+<a href="mailto:yndx-apodmarev@yandex.ru"><img src="https://img.shields.io/badge/-yndx-apodmare@yandex.ru-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/oosuzhdayu"><img src="https://img.shields.io/badge/telegram-%40oosuzhdayu-blue"/></a> 
