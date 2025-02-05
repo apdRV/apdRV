@@ -3,7 +3,7 @@
 
 ## 👩‍💻 Work:
 
-- __YANDEX__ "Intern" 2023. Saint-Petersburg, Russia
+- __YANDEX__ "Intern" 2024. Saint-Petersburg, Russia
 
 
 ## 📚 Education:
