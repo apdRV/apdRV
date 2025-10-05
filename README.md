@@ -3,6 +3,7 @@
 
 ## 👩‍💻 Work:
 
+- __VK__ "Intern" 2025. Saint-Petersburg, Russia
 - __YANDEX__ "Intern" 2024. Saint-Petersburg, Russia
 
 
